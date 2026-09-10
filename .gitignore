@@ -1,0 +1,11 @@
+# Python artifacts
+__pycache__/
+*.py[cod]
+
+# Experiment artifacts
+*.pth
+ddpm_mnist/data/
+ddpm_mnist/outputs/
+
+# OS artifacts
+.DS_Store

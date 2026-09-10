@@ -1,0 +1,4 @@
+DDPM 1000 steps: 223.68s
+DDPM 200 steps: 45.35s
+DDPM 50 steps: 10.73s
+DDIM 50 steps: 10.67s
